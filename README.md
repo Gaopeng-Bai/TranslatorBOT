@@ -12,7 +12,7 @@ For example:
 from translator import translator
 ```
 
-* translator_name: google, microsoft, bing, sogou, baidu, alibaba, tencent, youdao, deepl, google_separate(googletrans)
+* translator_name: google, microsoft, bing, sogou, baidu, alibaba, tencent, youdao, deepl, google_separate(googletrans).
 
 ```
 t = translator(translator_name="google") 
